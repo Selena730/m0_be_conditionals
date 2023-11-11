@@ -59,21 +59,28 @@ puts "is number_students less than or equal to 21?", number_students <= 21
 # Make sure YOU can explain it that way!
 
 puts 4 < 9
-#YOU DO: Explain.
+#YOU DO: This Prints the outcome of the comparison statement: is 4 less than 9?
+#It prints: true
 
 books = 3
 puts 4 < books
-# YOU DO: Explain.
+# YOU DO: This prints the result of comparing the variable books that holds the value of 3 and the value of 4: is 4 less than 3?
+#it prints: false
 
 friends = 6
 siblings = 2
 puts friends > siblings
-# YOU DO: Explain.
+# YOU DO: This prints the result of the comparison between the variable friends that holds the value of 6 to the variable siblings that 
+#holds the value of 2: is friends greater than siblings? 
+#it prints: true
+
 
 attendees = 9
 meals = 8
 puts attendees != meals
-# YOU DO: Explain.
+# YOU DO: This prints the comparing statement of the variable attendees that holds the value of 9 to the variable meals that holds
+#the value of 8: is attendees not equal to meals? 
+#it prints: true
 
 
 #-------------------
